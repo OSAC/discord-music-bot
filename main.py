@@ -61,5 +61,4 @@ async def reload(ctx, cname):
 
 
 
-keep_alive()
 bot.run(TOKEN)
